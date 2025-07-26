@@ -1,8 +1,0 @@
-{
-  "name": "Plugin ITA",
-  "description": "Plugin italiani per Cloudstream",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/Danix160/cloudstream-plugins-dinostreaming/main/plugins.json"
-  ]
-}
