@@ -2,7 +2,7 @@
     {
         "name": "DinoStreaming",
         "version": 1,
-        "url": "https://raw.githubusercontent.com/tuo-username/cloudstream-plugins-dinostreaming/main/builds/DinoStreaming.cs3",
+        "url": "https://raw.githubusercontent.com/Danix160/cloudstream-plugins-dinostreaming/main/builds/DinoStreaming.cs3",
         "language": "it",
         "status": 1,
         "tvTypes": [
