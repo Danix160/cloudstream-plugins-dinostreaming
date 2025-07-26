@@ -1,0 +1,12 @@
+{
+    "name": "Plugin ITA",
+    "description": "Plugin italiani per Cloudstream",
+    "manifestVersion": 1,
+    "plugins": [
+        {
+            "name": "DinoStreaming",
+            "url": "https://github.com/tuonome/cloudstream-plugins-dinostreaming/releases/download/v1.0/DinoStreaming.cs3",
+            "version": 1
+        }
+    ]
+}
